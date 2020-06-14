@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c35dd3ab-4336-48bc-a4f0-bf2434d40ca6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/site/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/Index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dIG3yLkVFBWMu9K7ocxwuSSQOJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c35dd3ab-4336-48bc-a4f0-bf2434d40ca6" name="Default Changelist" comment="" />
+      <created>1592104998885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592104998885</updated>
+      <workItem from="1592105002589" duration="601000" />
+      <workItem from="1592105664642" duration="116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1480" height="747" key="dock-window-1" timestamp="1592105250880">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="100" y="123" width="1480" height="747" key="dock-window-1/0.23.1680.972@0.23.1680.972" timestamp="1592105250880" />
+  </component>
+</project>
